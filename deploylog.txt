@@ -1,0 +1,1295 @@
+Timestamp: 2014-06-11 12:06:24
+Component ID: iMC-PLAT
+Name: 智能管理平台 - 资源管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:07:18
+Component ID: iMC-PLAT
+Name: 智能管理平台 - 资源管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:51:16
+Component ID: iMC-NME-FAULT
+Name: 智能管理平台 - 告警管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:52:30
+Component ID: iMC-NME-FAULT
+Name: 智能管理平台 - 告警管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:52:48
+Component ID: iMC-EUPLAT
+Name: 智能管理平台 - 用户自助服务管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:52:58
+Component ID: iMC-EUPLAT
+Name: 智能管理平台 - 用户自助服务管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:53:26
+Component ID: iMC-ICC
+Name: 智能管理平台 - 智能配置中心
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:53:47
+Component ID: iMC-ICC
+Name: 智能管理平台 - 智能配置中心
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:54:01
+Component ID: iMC-GAM
+Name: 智能管理平台 - 来宾接入管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:54:12
+Component ID: iMC-GAM
+Name: 智能管理平台 - 来宾接入管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:54:26
+Component ID: iMC-REPORT
+Name: 智能管理平台 - 报表管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:54:44
+Component ID: iMC-REPORT
+Name: 智能管理平台 - 报表管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:54:56
+Component ID: iMC-DM
+Name: 智能管理平台 - 网元管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:55:16
+Component ID: iMC-DM
+Name: 智能管理平台 - 网元管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:55:26
+Component ID: iMC-NME-PERF
+Name: 智能管理平台 - 性能管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:55:46
+Component ID: iMC-NME-PERF
+Name: 智能管理平台 - 性能管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:56:26
+Component ID: iMC-ACLM
+Name: 智能管理平台 - ACL管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:56:40
+Component ID: iMC-ACLM
+Name: 智能管理平台 - ACL管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:56:43
+Component ID: iMC-QOSM
+Name: QoS管理 - QoS管理
+Version: iMC QoSM 7.0 (E0201)
+InnerVersion: V700R001B02D001
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:02
+Component ID: iMC-QOSM
+Name: QoS管理 - QoS管理
+Version: iMC QoSM 7.0 (E0201)
+InnerVersion: V700R001B02D001
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:06
+Component ID: iMC-NETASSET
+Name: 智能管理平台 - 网络资产管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:24
+Component ID: iMC-NETASSET
+Name: 智能管理平台 - 网络资产管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:28
+Component ID: iMC-SCC
+Name: 智能管理平台 - 安全控制中心
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:37
+Component ID: iMC-SCC
+Name: 智能管理平台 - 安全控制中心
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:41
+Component ID: iMC-SEPLAT
+Name: 智能管理平台 - 通用搜索服务管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:51
+Component ID: iMC-SEPLAT
+Name: 智能管理平台 - 通用搜索服务管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:57:54
+Component ID: iMC-SLA
+Name: 服务健康管理  - 服务健康管理
+Version: iMC SHM 7.0 (E0202)
+InnerVersion: V700R001B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:58:36
+Component ID: iMC-SLA
+Name: 服务健康管理  - 服务健康管理
+Version: iMC SHM 7.0 (E0202)
+InnerVersion: V700R001B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:58:40
+Component ID: iMC-SLA-SERVER
+Name: 服务健康管理  - NQA采集器管理
+Version: iMC SHM 7.0 (E0202)
+InnerVersion: V700R001B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:58:50
+Component ID: iMC-SLA-SERVER
+Name: 服务健康管理  - NQA采集器管理
+Version: iMC SHM 7.0 (E0202)
+InnerVersion: V700R001B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:58:54
+Component ID: iMC-SYSLOG
+Name: 智能管理平台 - Syslog管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:59:10
+Component ID: iMC-SYSLOG
+Name: 智能管理平台 - Syslog管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:59:14
+Component ID: iMC-VLAN
+Name: 智能管理平台 - VLAN管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:59:26
+Component ID: iMC-VLAN
+Name: 智能管理平台 - VLAN管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:59:30
+Component ID: iMC-VNM
+Name: 智能管理平台 - 虚拟资源管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:59:43
+Component ID: iMC-VNM
+Name: 智能管理平台 - 虚拟资源管理
+Version: iMC PLAT 7.0 (E0202)
+InnerVersion: V700R001B02D004
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 12:59:47
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:00:32
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:00:36
+Component ID: iMC-RAM
+Name: 资源自动化管理
+Version: iMC RAM 7.0 (E0201)
+InnerVersion: V700R001B04D006
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:00:50
+Component ID: iMC-RAM
+Name: 资源自动化管理
+Version: iMC RAM 7.0 (E0201)
+InnerVersion: V700R001B04D006
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:00:55
+Component ID: iMC-SOM-CMDB
+Name: 服务运维管理 - CMDB管理
+Version: iMC SOM 7.0 (E0201)
+InnerVersion: V700R001B02D001
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:01:07
+Component ID: iMC-SOM-CMDB
+Name: 服务运维管理 - CMDB管理
+Version: iMC SOM 7.0 (E0201)
+InnerVersion: V700R001B02D001
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:01:11
+Component ID: iMC-SOM-SERVICEDESK
+Name: 服务运维管理 - 服务台
+Version: iMC SOM 7.0 (E0201)
+InnerVersion: V700R001B02D001
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:01:26
+Component ID: iMC-SOM-SERVICEDESK
+Name: 服务运维管理 - 服务台
+Version: iMC SOM 7.0 (E0201)
+InnerVersion: V700R001B02D001
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:01:30
+Component ID: iMC-SSM
+Name: 安全业务管理
+Version: iMC SSM 7.0 (E0202)
+InnerVersion: V700R002B02D000
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:01:48
+Component ID: iMC-SSM
+Name: 安全业务管理
+Version: iMC SSM 7.0 (E0202)
+InnerVersion: V700R002B02D000
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:01:53
+Component ID: iMC-LBM
+Name: 负载均衡管理
+Version: iMC LBM 7.0 (E0202)
+InnerVersion: V700R002B02D000
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:02:09
+Component ID: iMC-LBM
+Name: 负载均衡管理
+Version: iMC LBM 7.0 (E0202)
+InnerVersion: V700R002B02D000
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:03:42
+Component ID: iMC-CSM
+Name: 云服务管理平台
+Version: iMC CSM 7.0 (E0101)
+InnerVersion: V700R005B01D002
+Address: 10.165.9.212
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-06-11 13:03:57
+Component ID: iMC-CSM
+Name: 云服务管理平台
+Version: iMC CSM 7.0 (E0101)
+InnerVersion: V700R005B01D002
+Address: 10.165.9.212
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:11:48
+Component ID: iMC-PLAT
+Name: 智能管理平台 - 资源管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:13:03
+Component ID: iMC-PLAT
+Name: 智能管理平台 - 资源管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:13:17
+Component ID: iMC-NME-FAULT
+Name: 智能管理平台 - 告警管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:13:46
+Component ID: iMC-NME-FAULT
+Name: 智能管理平台 - 告警管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:13:57
+Component ID: iMC-EUPLAT
+Name: 智能管理平台 - 用户自助服务管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:14:23
+Component ID: iMC-EUPLAT
+Name: 智能管理平台 - 用户自助服务管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:14:34
+Component ID: iMC-GAM
+Name: 智能管理平台 - 来宾接入管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:15:00
+Component ID: iMC-GAM
+Name: 智能管理平台 - 来宾接入管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:15:11
+Component ID: iMC-ICC
+Name: 智能管理平台 - 智能配置中心
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:15:40
+Component ID: iMC-ICC
+Name: 智能管理平台 - 智能配置中心
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:15:51
+Component ID: iMC-REPORT
+Name: 智能管理平台 - 报表管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:16:20
+Component ID: iMC-REPORT
+Name: 智能管理平台 - 报表管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:16:31
+Component ID: iMC-DM
+Name: 智能管理平台 - 网元管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:17:05
+Component ID: iMC-DM
+Name: 智能管理平台 - 网元管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:17:16
+Component ID: iMC-NME-PERF
+Name: 智能管理平台 - 性能管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:17:44
+Component ID: iMC-NME-PERF
+Name: 智能管理平台 - 性能管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:17:54
+Component ID: iMC-ACLM
+Name: 智能管理平台 - ACL管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:18:21
+Component ID: iMC-ACLM
+Name: 智能管理平台 - ACL管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:18:32
+Component ID: iMC-NETASSET
+Name: 智能管理平台 - 网络资产管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:19:00
+Component ID: iMC-NETASSET
+Name: 智能管理平台 - 网络资产管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:19:11
+Component ID: iMC-SCC
+Name: 智能管理平台 - 安全控制中心
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:19:37
+Component ID: iMC-SCC
+Name: 智能管理平台 - 安全控制中心
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:19:47
+Component ID: iMC-SEPLAT
+Name: 智能管理平台 - 通用搜索服务管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:20:13
+Component ID: iMC-SEPLAT
+Name: 智能管理平台 - 通用搜索服务管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:20:23
+Component ID: iMC-SYSLOG
+Name: 智能管理平台 - Syslog管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:20:49
+Component ID: iMC-SYSLOG
+Name: 智能管理平台 - Syslog管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:21:00
+Component ID: iMC-VLAN
+Name: 智能管理平台 - VLAN管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:21:26
+Component ID: iMC-VLAN
+Name: 智能管理平台 - VLAN管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:21:37
+Component ID: iMC-VNM
+Name: 智能管理平台 - 虚拟资源管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 15:22:05
+Component ID: iMC-VNM
+Name: 智能管理平台 - 虚拟资源管理
+Version: iMC PLAT 7.0 (E0202P03)
+InnerVersion: V700R001B02D004SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:18:05
+Component ID: iMC-CSM
+Name: 云服务管理平台
+Version: iMC CSM 7.0 (E0101)
+InnerVersion: V700R005B01D002
+Address: 10.165.9.232
+Operation: Undeploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:22:35
+Component ID: iMC-QOSM
+Name: QoS管理 - QoS管理
+Version: iMC QoSM 7.0 (E0201H02)
+InnerVersion: V700R001B02D001SP02
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:23:02
+Component ID: iMC-QOSM
+Name: QoS管理 - QoS管理
+Version: iMC QoSM 7.0 (E0201H02)
+InnerVersion: V700R001B02D001SP02
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:24:20
+Component ID: iMC-SOM-CMDB
+Name: 服务运维管理 - CMDB管理
+Version: iMC SOM 7.0 (E0201L01)
+InnerVersion: V700R001B02D001SP01
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:24:46
+Component ID: iMC-SOM-CMDB
+Name: 服务运维管理 - CMDB管理
+Version: iMC SOM 7.0 (E0201L01)
+InnerVersion: V700R001B02D001SP01
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:24:57
+Component ID: iMC-SOM-SERVICEDESK
+Name: 服务运维管理 - 服务台
+Version: iMC SOM 7.0 (E0201L01)
+InnerVersion: V700R001B02D001SP01
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:25:26
+Component ID: iMC-SOM-SERVICEDESK
+Name: 服务运维管理 - 服务台
+Version: iMC SOM 7.0 (E0201L01)
+InnerVersion: V700R001B02D001SP01
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:26:48
+Component ID: iMC-RAM
+Name: 资源自动化管理
+Version: iMC RAM 7.0 (E0201L02)
+InnerVersion: V700R001B04D006SP02
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:27:16
+Component ID: iMC-RAM
+Name: 资源自动化管理
+Version: iMC RAM 7.0 (E0201L02)
+InnerVersion: V700R001B04D006SP02
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:42:52
+Component ID: iMC-CSM
+Name: 云业务管理平台
+Version: iMC CSM 7.0 (E0102)
+InnerVersion: V700R005B01D005
+Address: 10.165.9.232
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:43:14
+Component ID: iMC-CSM
+Name: 云业务管理平台
+Version: iMC CSM 7.0 (E0102)
+InnerVersion: V700R005B01D005
+Address: 10.165.9.232
+Operation: Deploy completed
+Result: failed
+Fail reason: Slave deploy failed
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:49:06
+Component ID: iMC-CSM
+Name: 云业务管理平台
+Version: iMC CSM 7.0 (E0102)
+InnerVersion: V700R005B01D005
+Address: 10.165.9.232
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-07 18:49:23
+Component ID: iMC-CSM
+Name: 云业务管理平台
+Version: iMC CSM 7.0 (E0102)
+InnerVersion: V700R005B01D005
+Address: 10.165.9.232
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:10:20
+Component ID: iMC-PLAT
+Name: 智能管理平台 - 资源管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:10:50
+Component ID: iMC-PLAT
+Name: 智能管理平台 - 资源管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:11:01
+Component ID: iMC-ICC
+Name: 智能管理平台 - 智能配置中心
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:11:29
+Component ID: iMC-ICC
+Name: 智能管理平台 - 智能配置中心
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:11:40
+Component ID: iMC-REPORT
+Name: 智能管理平台 - 报表管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:12:07
+Component ID: iMC-REPORT
+Name: 智能管理平台 - 报表管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:12:19
+Component ID: iMC-DM
+Name: 智能管理平台 - 网元管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:12:46
+Component ID: iMC-DM
+Name: 智能管理平台 - 网元管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:12:57
+Component ID: iMC-NME-PERF
+Name: 智能管理平台 - 性能管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:13:24
+Component ID: iMC-NME-PERF
+Name: 智能管理平台 - 性能管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:13:35
+Component ID: iMC-ACLM
+Name: 智能管理平台 - ACL管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:14:02
+Component ID: iMC-ACLM
+Name: 智能管理平台 - ACL管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:14:13
+Component ID: iMC-VLAN
+Name: 智能管理平台 - VLAN管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:14:40
+Component ID: iMC-VLAN
+Name: 智能管理平台 - VLAN管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:14:51
+Component ID: iMC-VNM
+Name: 智能管理平台 - 虚拟资源管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-07-16 14:15:19
+Component ID: iMC-VNM
+Name: 智能管理平台 - 虚拟资源管理
+Version: iMC PLAT 7.0 (E0202H04)
+InnerVersion: V700R001B02D004SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 10:58:15
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Undeploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:02:09
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:02:11
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: failed
+Fail reason: Slave deploy failed
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:04:57
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:04:59
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: failed
+Fail reason: Slave deploy failed
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:06:37
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:06:39
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: failed
+Fail reason: Slave deploy failed
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:21:21
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:33:43
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:33:44
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: failed
+Fail reason: Slave deploy failed
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:38:25
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 10.165.9.232
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:44:18
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 10.165.9.232
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:45:04
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 10.165.9.232
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:50:40
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 10.165.9.232
+Operation: Undeploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:51:07
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 11:52:03
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201)
+InnerVersion: V700R002B02D002
+Address: 127.0.0.1
+Operation: Deploy completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 15:33:50
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201P02)
+InnerVersion: V700R002B02D002SP03
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 15:34:49
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201P02)
+InnerVersion: V700R002B02D002SP03
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 15:38:16
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201H03)
+InnerVersion: V700R002B02D002SP04
+Address: 127.0.0.1
+Operation: Update initialized
+Result: success
+--------------------------------------------------
+
+Timestamp: 2014-08-04 15:38:56
+Component ID: iMC-APME
+Name: 应用管理
+Version: iMC APM 7.0 (E0201H03)
+InnerVersion: V700R002B02D002SP04
+Address: 127.0.0.1
+Operation: Update completed
+Result: success
+--------------------------------------------------
+
